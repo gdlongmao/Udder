@@ -29,12 +29,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="I Am Poor_icon" translatesAutoresizingMaskIntoConstraints="NO" id="dm6-Bf-O9C">
-                                <rect key="frame" x="87" y="533" width="238" height="224"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="I Am Poor" translatesAutoresizingMaskIntoConstraints="NO" id="uOP-eb-0Nm">
-                                <rect key="frame" x="87" y="280" width="238" height="224"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="milk" translatesAutoresizingMaskIntoConstraints="NO" id="PTr-7Q-mQZ">
+                                <rect key="frame" x="0.0" y="485" width="414" height="411"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -48,7 +44,6 @@
         </scene>
     </scenes>
     <resources>
-        <image name="I Am Poor" width="500" height="500"/>
-        <image name="I Am Poor_icon" width="500" height="500"/>
+        <image name="milk" width="650" height="350"/>
     </resources>
 </document>
